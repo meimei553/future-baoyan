@@ -1,2 +1,5 @@
 # future
-未来未来
+if("World False"== 1)
+printf("past=future");
+else
+now
